@@ -39,7 +39,7 @@ sudo ./user_tool.sh
 
 ## 👨‍💻 Author
 
-**João Thomaz Pedro**
+**João Pedro Thomaz**
 
 [GitHub Profile](https://github.com/joaothomazpedro)
 
